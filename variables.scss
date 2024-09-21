@@ -1,0 +1,15 @@
+$color: blue;
+
+// div > ul {
+
+// }
+ul {
+    font-size: 30px;
+    color: $color;
+}
+
+ol {
+    font-size: 13px;
+    color: $color;
+    border-radius: 5px black;
+}
